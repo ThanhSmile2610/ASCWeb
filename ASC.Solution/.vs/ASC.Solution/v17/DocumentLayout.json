@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\github\\ASCWeb\\ASC.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|e:\\github\\ascweb\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|e:\\github\\ascweb\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|e:\\github\\ascweb\\asc.solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|e:\\github\\ascweb\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C98B93-7F42-423B-9986-4DB72A122F46}|ASC.Web\\ASC.Web.csproj|e:\\github\\ascweb\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:56:13.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:56:13.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_SecureLayout.cshtml",
               "DocumentMoniker": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
@@ -91,12 +90,11 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:26:00.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:26:00.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\style.css",
@@ -104,18 +102,17 @@
               "RelativeToolTip": "ASC.Web\\wwwroot\\css\\style.css",
               "ViewState": "AQIAADoAAAAAAAAAAAAqwFMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T06:09:08.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:09:08.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "ToolTip": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-26T05:18:05.715Z",
               "EditorCaption": ""
@@ -130,8 +127,7 @@
               "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:00:02.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:00:02.412Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T07:26:14.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:26:14.797Z"
             },
             {
               "$type": "Document",
@@ -172,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\github\\ASCWeb\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:34:13.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:34:13.459Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:01:11.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:01:11.507Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "ASC.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:22:07.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T07:22:07.671Z"
             },
             {
               "$type": "Document",

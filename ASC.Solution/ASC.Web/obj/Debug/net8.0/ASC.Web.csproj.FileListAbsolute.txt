@@ -145,3 +145,4 @@ E:\github\ASCWeb\ASC.Solution\ASC.Web\obj\Debug\net8.0\refint\ASC.Web.dll
 E:\github\ASCWeb\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.pdb
 E:\github\ASCWeb\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.genruntimeconfig.cache
 E:\github\ASCWeb\ASC.Solution\ASC.Web\obj\Debug\net8.0\ref\ASC.Web.dll
+E:\github\ASCWeb\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.sourcelink.json
